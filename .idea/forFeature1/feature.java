@@ -3,4 +3,5 @@ public static void main(String[] args) {
     int two = 2;
     int three = 3;
     System.out.println("print number " + one);
+    System.out.println("print number " + two);
 }
